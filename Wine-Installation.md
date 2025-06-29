@@ -1,6 +1,8 @@
 ## Wine 
 
-[Wine](https://www.winehq.org/) (originally an acronym for "Wine Is Not an Emulator") is an open-source project that provides a compatibility layer used to run Windows applications on other operating systems such as macOS and Linux
+[Wine](https://www.winehq.org/) (originally an acronym for "Wine Is Not an Emulator") is an open-source project that provides a compatibility layer used to run Windows applications on other operating systems such as macOS and Linux.
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WINE-logo.svg/140px-WINE-logo.svg.png)
 
 ## Verifying the system architecture
 
